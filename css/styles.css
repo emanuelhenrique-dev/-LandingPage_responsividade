@@ -201,6 +201,53 @@ body {
   line-height: 2.4rem;
 }
 
+/*    event details section     */
+
+#details {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.detail {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 5%;
+  margin-bottom: 6.4rem;
+}
+
+.detail img {
+  width: 50%;
+}
+
+.detail h2 {
+  font-size: 4.8rem;
+  margin-bottom: 1em;
+  font-weight: 700;
+}
+
+.detail h3 {
+  font-size: 3.2rem;
+  margin-bottom: 1em;
+  font-weight: 500;
+}
+
+.detail-description {
+  width: 100%;
+  padding-left: 3.2rem;
+}
+
+.detail-description ul {
+  list-style: inside;
+}
+
+.detail-description ul li {
+  margin-bottom: 0.64rem;
+}
+
+.detail-description ul li:last-child {
+  font-weight: bold;
+}
 
 
 
