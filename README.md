@@ -7,10 +7,9 @@
 </p>
 
 ## :rocket: Tecnologias
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 
 ## 💻 Projeto
 
